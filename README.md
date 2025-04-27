@@ -1,5 +1,12 @@
 # Discord Bot
 
+## Invite the Bot
+
+You can invite the bot to your own server using the following link:
+
+[Invite JavaBot](https://discord.com/oauth2/authorize?client_id=1365163666307153940&permissions=8&integration_type=0&scope=bot+applications.commands)
+
+
 JavaBot is a simple yet powerful Discord bot built using Java and the [JDA library](https://github.com/DV8FromTheWorld/JDA). It includes several commands such as greeting users, chatting with an AI, providing user info, and more! This bot is designed to be easily customizable and deployable.
 
 ## Features
