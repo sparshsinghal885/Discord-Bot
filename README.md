@@ -1,4 +1,4 @@
-# JavaBot
+# Discord Bot
 
 JavaBot is a simple yet powerful Discord bot built using Java and the [JDA library](https://github.com/DV8FromTheWorld/JDA). It includes several commands such as greeting users, chatting with an AI, providing user info, and more! This bot is designed to be easily customizable and deployable.
 
